@@ -1,4 +1,4 @@
-# To-Do Application Profile -- Free Flutter Template --
+# To-Do Application Profile Page - Flutter Template
 
 To-Do Application Profile Flutter template.
 
